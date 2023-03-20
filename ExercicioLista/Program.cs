@@ -4,6 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+
         List<Produto> estoque = new List<Produto>();
 
         Console.WriteLine("Count: " + estoque.Count);
